@@ -180,6 +180,7 @@ function getArray(items: any[]): any[]{
 const numArray = getArray([1,2,3,4,5])
 const strArray = getArray(["Ripes", "Jibs", "Ayus"])
 numArray.push('Ronim');
+console.log(getArray);
 
 
 
