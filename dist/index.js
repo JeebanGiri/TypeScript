@@ -1,4 +1,5 @@
 "use strict";
+// Tperscript datatypes...
 let id = 1;
 let username = 'Jeeban';
 let isComplete = true;
