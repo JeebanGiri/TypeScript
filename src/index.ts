@@ -187,7 +187,6 @@ console.log(getArray);
 
 // It throws error because we cannot push the string array into number type array..
 
-
 // function getArrays<T>(item: T[]): T[]{
 //     return new Array().concat(item)
 // }
@@ -197,21 +196,3 @@ console.log(getArray);
 
 // we can push the number types into numArray like this:
 // numArrays.push(6)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
