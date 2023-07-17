@@ -1,3 +1,4 @@
+// Tperscript datatypes...
 let id: number = 1;
 let username: string = 'Jeeban';
 let isComplete: boolean = true;
